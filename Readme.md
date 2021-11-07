@@ -1,5 +1,5 @@
 <div style='background-color:#21193c; padding:20px' align="center">
-    <img alt="IEEEXtreme" src="https://github.com/ieee-ensias/IEEEXtreme-15.0/blob/main/logo.png" width="500" />
+    <img alt="IEEEXtreme" src="https://github.com/ieee-ensias/IEEEXtreme-15.0/blob/master/logo.png" width="500" />
 </div>
 <br>
 
@@ -46,7 +46,7 @@ Also, check the __[IEEEXtreme Practice Community](https://csacademy.com/contest/
 ## Contributing :
 
 <div style='background-color:#21193c; padding:20px' align="center">
-    <img alt="IEEEXtreme" src="https://github.com/ieee-ensias/IEEEXtreme-15.0/blob/main/logo.png" width="600" />
+    <img alt="IEEEXtreme" src="https://github.com/ieee-ensias/IEEEXtreme-15.0/blob/master/logo.png" width="600" />
 </div>
 <br>
 
